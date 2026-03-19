@@ -1,0 +1,17 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hero-bet",
+      "description": "Abstract neon lights representing fast digital transactions",
+      "imageUrl": "https://picsum.photos/seed/guanabet1/1200/600",
+      "imageHint": "neon digital"
+    },
+    {
+      "id": "bet-detail",
+      "description": "Close up of digital currency concepts",
+      "imageUrl": "https://picsum.photos/seed/guanabet2/800/400",
+      "imageHint": "bitcoin network"
+    }
+  ]
+}
